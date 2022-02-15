@@ -1,0 +1,1 @@
+/home/du2s/.config/polybar/launch.sh

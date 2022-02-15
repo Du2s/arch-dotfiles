@@ -1,0 +1,1 @@
+/home/du2s/.xinitrc
