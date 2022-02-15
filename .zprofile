@@ -1,1 +1,2 @@
-/home/du2s/.zprofile
+export EDITOR=nvim
+export ZDOTDIR="$HOME/.config/zsh/"

@@ -1,1 +1,0 @@
-/home/du2s/.vim/
